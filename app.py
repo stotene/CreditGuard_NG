@@ -4,9 +4,9 @@ import numpy as np
 import joblib
 import shap
 
-st.set_page_config(page_title="CreditGuard NG", page_icon="💰", layout="wide")
+st.set_page_config(page_title="CreditGuard NG", page_icon=" ", layout="wide")
 
-st.title("💰 CreditGuard NG")
+st.title("CreditGuard NG")
 st.subheader("Intelligent Loan Approval Prediction System")
 st.markdown("**Tech Crush | Group November**")
 st.markdown("---")
